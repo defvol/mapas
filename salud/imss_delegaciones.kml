@@ -1,0 +1,2581 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="2159">
+  <name>Delegaciones del IMSS</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>2159</name>
+    <Snippet></Snippet>
+    <Placemark id="ID_00000">
+      <name>Delegaci—n Aguascalientes</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Delegaci—n Aguascalientes</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>1</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Delegaci—n Aguascalientes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-102.273625</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>21.884451</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Aguascalientes</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Aguascalientes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Aguascalientes</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>del Trabajo</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>20180</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Alameda 704</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -102.273625,21.884451,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>Delegaci—n Baja California</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Delegaci—n Baja California</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>2</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Delegaci—n Baja California</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-115.445019</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>32.657556</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Baja California</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Mexicali</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Mexicali</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Aviaci—n</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>21230</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Calzada CuauhtŽmoc 300</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -115.445019,32.657556,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>Delegaci—n Baja California Sur</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Delegaci—n Baja California Sur</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>3</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Delegaci—n Baja California Sur</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-110.30709</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>24.170593</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Baja California Sur</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>La Paz</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>La Paz</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Esterito</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>23020</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Madero 315</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -110.30709,24.170593,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>Delegaci—n Campeche</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Delegaci—n Campeche</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>4</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Delegaci—n Campeche</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-90.526397</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>19.854474</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Campeche</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Campeche</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>San Francisco de Campeche</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>San Francisco</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>24010</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Avenida Fundadores Manzana J Lote s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -90.526397,19.854474,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name>Delegaci—n Chiapas</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Delegaci—n Chiapas</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>5</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Delegaci—n Chiapas</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-92.266212</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>14.919887</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Chiapas</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Tapachula</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Tapachula de C—rdova y Ord—–ez</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Centro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>30700</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Carretera Costera y Anillo PerifŽrico s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -92.266212,14.919887,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name>Delegaci—n Chihuahua</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Delegaci—n Chihuahua</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>6</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Delegaci—n Chihuahua</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-106.078998</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>28.6447</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Chihuahua</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Chihuahua</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Chihuahua</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Centro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>31000</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Universidad 1101</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -106.078998,28.6447,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name>Delegaci—n Coahuila</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Delegaci—n Coahuila</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>7</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Delegaci—n Coahuila</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-100.989555</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>25.447478</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Coahuila de Zaragoza</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Saltillo</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Saltillo</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>La Salle</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>25280</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Blvd. V. Carranza 2809 esq. PerifŽrico Luis Echeverr’a</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -100.989555,25.447478,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00007">
+      <name>Delegaci—n Colima</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Delegaci—n Colima</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>8</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Delegaci—n Colima</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-103.726467</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>19.243497</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Colima</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Colima</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Colima</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Centro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>28000</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>I. Zaragoza 62 esq. Gabino Barrera</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -103.726467,19.243497,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00008">
+      <name>Delegaci—n DF Norte</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Delegaci—n DF Norte</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>9</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Delegaci—n DF Norte</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-99.135171</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>19.481314</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Distrito Federal</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Gustavo A. Madero</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Gustavo A. Madero</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Magdalena de las Salinas</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>7760</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Av. Instituto PolitŽcnico Nacional 1521</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -99.135171,19.481314,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00009">
+      <name>Delegaci—n DF Sur</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Delegaci—n DF Sur</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>9</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>10</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Delegaci—n DF Sur</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-99.122176</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>19.379937</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Distrito Federal</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Iztapalapa</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Iztapalapa</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>El Triunfo</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>9430</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Calzada de la Viga 1174</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -99.122176,19.379937,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00010">
+      <name>Delegaci—n Durango</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Delegaci—n Durango</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>11</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Delegaci—n Durango</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-104.670135</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>24.026484</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Durango</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Durango</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Victoria de Durango</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Centro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>34000</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Ju‡rez Sur 104</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -104.670135,24.026484,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00011">
+      <name>Delegaci—n Guanajuato</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Delegaci—n Guanajuato</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>12</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Delegaci—n Guanajuato</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-101.687341</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>21.139381</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Guanajuato</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Le—n</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Le—n de los Aldama</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Centro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>37000</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Blvd. A. L—pez Mateos y Paseo de los Insurgentes</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -101.687341,21.139381,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00012">
+      <name>Delegaci—n Guerrero</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Delegaci—n Guerrero</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>12</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>13</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Delegaci—n Guerrero</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-99.902077</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>16.856078</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Guerrero</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Acapulco de Ju‡rez</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Acapulco de Ju‡rez</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Centro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>39300</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Av. CuauhtŽmoc 95</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -99.90207700000001,16.856078,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00013">
+      <name>Delegaci—n Hidalgo</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Delegaci—n Hidalgo</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>13</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>14</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Delegaci—n Hidalgo</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-98.717333</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>20.107627</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Hidalgo</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Pachuca de Soto</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Pachuca de Soto</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Canutillo</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>42070</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Boulevard Luis Donaldo Colosio 516</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -98.717333,20.107627,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00014">
+      <name>Delegaci—n Jalisco</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Delegaci—n Jalisco</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>14</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>15</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Delegaci—n Jalisco</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-103.326323</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>20.686737</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Jalisco</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Guadalajara</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Guadalajara</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Independencia</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>44349</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Belisario Dom’nguez 1000</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -103.326323,20.686737,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00015">
+      <name>Delegaci—n MŽxico Poniente</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Delegaci—n MŽxico Poniente</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>16</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Delegaci—n MŽxico Poniente</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-99.646707</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>19.289201</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>MŽxico</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Toluca</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Toluca de Lerdo</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Centro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>50000</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Josefa Ort’z de Dom’nguez esq. Av. Hidalgo</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -99.64670700000001,19.289201,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00016">
+      <name>Delegaci—n MŽxico Oriente</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Delegaci—n MŽxico Oriente</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>16</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>17</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Delegaci—n MŽxico Oriente</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-99.224179</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>19.466698</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>MŽxico</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Naucalpan de Ju‡rez</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Naucalpan de Ju‡rez</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Industrial Alce Blanco</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>53070</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Calle 4 No. 25</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -99.22417900000001,19.466698,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00017">
+      <name>Delegaci—n Michoac‡n</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Delegaci—n Michoac‡n</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>17</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>18</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Delegaci—n Michoac‡n</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-101.202223</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>19.703303</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Michoac‡n de Ocampo</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Morelia</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Morelia</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Centro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>58000</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Av. Madero Poniente 1200</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -101.202223,19.703303,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00018">
+      <name>Delegaci—n Morelos</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Delegaci—n Morelos</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>18</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>19</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Delegaci—n Morelos</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-99.23404</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>18.918075</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Morelos</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Cuernavaca</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Cuernavaca</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Centro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>62000</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Blvd. Benito Ju‡rez No.18</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -99.23403999999999,18.918075,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00019">
+      <name>Delegaci—n Nayarit</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Delegaci—n Nayarit</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>19</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>20</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Delegaci—n Nayarit</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-104.898124</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>21.499403</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Nayarit</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Tepic</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Tepic</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Fray Jun’pero Sierra</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>63130</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Calzada EjŽrcito Nacional No.14</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -104.898124,21.499403,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00020">
+      <name>Delegaci—n Nuevo Le—n</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Delegaci—n Nuevo Le—n</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>20</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>21</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Delegaci—n Nuevo Le—n</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-100.297813</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>25.671807</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Nuevo Le—n</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Monterrey</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Monterrey</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Centro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>64010</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Prof. Gregorio Torres Quevedo No. 1950 Ote.</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -100.297813,25.671807,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00021">
+      <name>Delegaci—n Oaxaca</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Delegaci—n Oaxaca</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>21</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>22</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Delegaci—n Oaxaca</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-96.719274</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>17.081337</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Oaxaca</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Oaxaca de Ju‡rez</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Oaxaca de Ju‡rez</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Reforma</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>68050</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Calzada Porfirio D’az No.803</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -96.719274,17.081337,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00022">
+      <name>Delegaci—n Puebla</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Delegaci—n Puebla</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>22</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>23</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Delegaci—n Puebla</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-98.191272</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>19.050875</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Puebla</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Puebla</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Her—ica Puebla de Zaragoza</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Centro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>72000</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>4 Norte No. 2005, 2¡ Piso</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -98.191272,19.050875,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00023">
+      <name>Delegaci—n QuerŽtaro</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Delegaci—n QuerŽtaro</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>23</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>24</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Delegaci—n QuerŽtaro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-100.40554</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>20.581207</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>QuerŽtaro</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>QuerŽtaro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Santiago de QuerŽtaro</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Centro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>76000</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Av. 5 de Febrero, esq. Calzada Zaragoza</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -100.40554,20.581207,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00024">
+      <name>Delegaci—n Quintana Roo</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Delegaci—n Quintana Roo</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>24</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>25</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Delegaci—n Quintana Roo</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-88.294311</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>18.501528</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Quintana Roo</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Oth—n P. Blanco</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Chetumal</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Centro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>77000</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Av. Chapultepec Ote.Ê 2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -88.29431099999999,18.501528,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00025">
+      <name>Delegaci—n San Luis Potos’</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Delegaci—n San Luis Potos’</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>26</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Delegaci—n San Luis Potos’</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-100.986006</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>22.148345</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>San Luis Potos’</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>San Luis Potos</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>San Luis Potos</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Moderna</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>78255</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Av. CuauhtŽmoc No. 255, piso 1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -100.986006,22.148345,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00026">
+      <name>Delegaci—n Sinaloa</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Delegaci—n Sinaloa</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>26</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>27</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Delegaci—n Sinaloa</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-107.39052</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>24.797256</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Sinaloa</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Culiac‡n</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Culiac‡n Rosales</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Miguel Alem‡n</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>80200</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Francisco Zarco esq. Jesœs G. Andrade s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -107.39052,24.797256,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00027">
+      <name>Delegaci—n Sonora</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Delegaci—n Sonora</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>27</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>28</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Delegaci—n Sonora</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-109.932555</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>27.498732</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Sonora</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Cajeme</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Ciudad Obreg—n</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Centro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>85000</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>5 de Febrero entre Allende y Nainari</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -109.932555,27.498732,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00028">
+      <name>Delegaci—n Tabasco</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Delegaci—n Tabasco</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>28</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>29</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Delegaci—n Tabasco</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-92.932062</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>17.984314</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Tabasco</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Centro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Villahermosa</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>1ro. de Mayo</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>86035</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Av. CŽsar Sandino No. 102, Col. 1ro. de Mayo C.P. 86190</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -92.932062,17.984314,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00029">
+      <name>Delegaci—n Tamaulipas</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Delegaci—n Tamaulipas</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>29</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>30</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Delegaci—n Tamaulipas</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-99.149719</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>23.719624</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Tamaulipas</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Victoria</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Ciudad Victoria</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Pedro Sosa</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>87120</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Centro MŽdico Educativo y Cultural Adolfo L—pez Mateos 3er. Piso</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -99.14971900000001,23.719624,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00030">
+      <name>Delegaci—n Tlaxcala</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Delegaci—n Tlaxcala</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>30</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>31</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Delegaci—n Tlaxcala</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-98.228633</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>19.325217</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Tlaxcala</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Tlaxcala</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Tlaxcala de XicohtŽncatl</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Centro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>90000</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Blvd. Guillermo Valle 115</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -98.228633,19.325217,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00031">
+      <name>Delegaci—n Veracruz Norte</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Delegaci—n Veracruz Norte</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>31</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>32</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Delegaci—n Veracruz Norte</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-96.920037</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>19.519165</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Veracruz de Ignacio de la Llave</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Xalapa</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Xalapa-Enr’quez</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Centro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>91000</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Lomas del Estadio s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -96.92003699999999,19.519165,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00032">
+      <name>Delegaci—n Veracruz Sur</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Delegaci—n Veracruz Sur</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>32</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>33</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Delegaci—n Veracruz Sur</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-97.115217</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>18.839291</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Veracruz de Ignacio de la Llave</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Orizaba</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Orizaba</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Centro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>94300</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Poniente 7 No. 1350</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -97.115217,18.839291,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00033">
+      <name>Delegaci—n Yucat‡n</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Delegaci—n Yucat‡n</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>33</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>34</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Delegaci—n Yucat‡n</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-89.604212</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>20.979084</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Yucat‡n</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>MŽrida</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>MŽrida</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Industrial</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>97150</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Calle 34 No. 439Ê X 41 Ex terrenos El FŽnix</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -89.604212,20.979084,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00034">
+      <name>Delegaci—n Zacatecas</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Delegaci—n Zacatecas</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>34</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>35</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Delegaci—n Zacatecas</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-102.536478</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>22.759478</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Zacatecas</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Guadalupe</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Guadalupe</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Dependencias Federales</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>98618</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Av. Restauradores No. 3</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -102.536478,22.759478,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Style id="IconStyle00">
+    <IconStyle>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon>
+      <scale>1.250000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

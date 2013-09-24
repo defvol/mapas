@@ -25,5 +25,35 @@ SALUD
     <td>Institutos nacionales de salud y hospitales federales de referencia</td>
     <td>insp_institutos-hospitales-referencia.kml</td>
   </tr>
+  <tr>
+    <td>Instituto Mexicano del Seguro Social</td>
+    <td>Centros de capacitación para el trabajo</td>
+    <td>imss_centros-capacitacion-trabajo.kml</td>
+  </tr>
+  <tr>
+    <td>Instituto Mexicano del Seguro Social</td>
+    <td>Centros vacacionales</td>
+    <td>imss_centros-vacacionales.kml</td>
+  </tr>
+  <tr>
+    <td>Instituto Mexicano del Seguro Social</td>
+    <td>Delegaciones</td>
+    <td>imss_delegaciones.kml</td>
+  </tr>
+  <tr>
+    <td>Instituto Mexicano del Seguro Social</td>
+    <td>Unidades de atención médica</td>
+    <td>imss_unidades-atencion-medica.kml</td>
+  </tr>
+  <tr>
+    <td>Instituto Mexicano del Seguro Social</td>
+    <td>Guarderías en régimen ordinario</td>
+    <td>imss_guarderias-regimen-ordinario.kml</td>
+  </tr>
+  <tr>
+    <td>Instituto Mexicano del Seguro Social</td>
+    <td>Hospitales rurales del Programa Oportunidades</td>
+    <td>imss_hospitales-rurales-oportunidades.kml</td>
+  </tr>
 </table>
 

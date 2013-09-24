@@ -1,0 +1,5720 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="2026">
+  <name>Hospitales rurales IMSS Oportunidades</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>2026</name>
+    <Snippet></Snippet>
+    <Placemark id="ID_00000">
+      <name>Hospital rural San Quint’n Baja California</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural San Quint’n Baja California</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>1</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural San Quint’n Baja California</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-115.992936</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>30.709642</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Baja California</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Vicente Guerrero</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Ensenada</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Fraccionamiento las Misiones</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>22920</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>1 de Mayo s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -115.992936,30.70964179,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>Hospital rural Hecelchak‡n</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Hecelchak‡n</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>2</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Hecelchak‡n</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-90.140609</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>20.167329</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Campeche</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Hecelchakan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Hecelchakan</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Barrio San Antonio</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>24800</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>X s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -90.14060926000001,20.16732948,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>Hospital rural Mamantel (El Carmen) Campeche</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Mamantel (El Carmen) Campeche</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>3</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Mamantel (El Carmen) Campeche</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-91.085137</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>18.531357</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Campeche</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Carmen</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Mamantel</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Mamantel</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>24350</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>20 de Noviembre s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -91.08513665,18.53135742,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>Hospital rural Mapastepec Chiapas</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Mapastepec Chiapas</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>4</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Mapastepec Chiapas</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-92.88832</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>15.4611</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Chiapas</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Mapastepec</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Mapastepec</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Barrio el Llanito</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>30560</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Camino a Pantale—n Dom’nguez s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -92.88831999999999,15.4611,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name>Hospital rural Motozintla de Mendoza Chiapas</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Motozintla de Mendoza Chiapas</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>5</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Motozintla de Mendoza Chiapas</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-92.24733</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>15.35506</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Chiapas</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Motozintla</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Motozintla</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Barrio Canoas</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>30900</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Calz. las Canoas 800</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -92.24733000000001,15.35506,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name>Hospital rural Altamirano Chiapas</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Altamirano Chiapas</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>6</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Altamirano Chiapas</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-92.08715</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>16.90099</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Chiapas</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Altamirano</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Altamirano</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Barrio el Campo</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>30190</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Av. 20 de Noviembre s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -92.08714999999999,16.90099,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name>Hospital rural Guadalupe Tepeyac Chiapas</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Guadalupe Tepeyac Chiapas</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>7</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Guadalupe Tepeyac Chiapas</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-91.99356</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>16.33045</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Chiapas</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Chiapas</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Margaritas</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Guadalupe Tepeyac</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>30180</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Guadalupe Tepeyac s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -91.99356,16.33045,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00007">
+      <name>Hospital rural San Crist—bal de Las Casas Chiapas</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural San Crist—bal de Las Casas Chiapas</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>8</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural San Crist—bal de Las Casas Chiapas</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-92.654508</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>16.732101</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Chiapas</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>San Crist—bal de las Casas</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>San Crist—bal de las Casas</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>F‡tima</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>29240</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Carretera Panamericana Km. 1169 s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -92.65450788,16.73210146,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00008">
+      <name>Hospital rural Venustiano Carranza Chiapas</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Venustiano Carranza Chiapas</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>9</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Venustiano Carranza Chiapas</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-92.568074</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>16.316178</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Chiapas</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Venustiano Carranza</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Venustiano Carranza</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>San Francisco</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>30200</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Carretera Tuxtla a Comit‡n Km. 90.5 s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -92.56807369000001,16.31617826,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00009">
+      <name>Hospital rural Ocozocoautla de Espinosa Chiapas</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Ocozocoautla de Espinosa Chiapas</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>9</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>10</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Ocozocoautla de Espinosa Chiapas</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-93.379938</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>16.754776</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Chiapas</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Ocozocoautla de Espinosa</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Ocozocoautla</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Barrio San Antonio</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>29140</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Calle 5 Sur Poniente 1049</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -93.37993813,16.75477613,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00010">
+      <name>Hospital rural Bochil Chiapas</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Bochil Chiapas</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>11</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Bochil Chiapas</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-92.895444</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>16.992044</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Chiapas</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Bochil</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Bochil</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Barrio Morelos</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>29770</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Calle el Naranjo s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -92.89544401000001,16.99204411,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00011">
+      <name>Hospital rural Ocosingo Chiapas</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Ocosingo Chiapas</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>12</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Ocosingo Chiapas</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-92.087006</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>16.90091</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Chiapas</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Ocosingo</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Ocosingo</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Barrio Betania</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>29950</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>R’o Jatate 32</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -92.08700609,16.90090987,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00012">
+      <name>Hospital rural BenemŽrito de Las AmŽricas Chiapas</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural BenemŽrito de Las AmŽricas Chiapas</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>12</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>13</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural BenemŽrito de Las AmŽricas Chiapas</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-90.653915</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>16.516813</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Chiapas</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>BenemŽrito de las AmŽricas</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>BenemŽrito de las AmŽricas</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Centro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>29955</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Av. 21 de Marzo s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -90.65391523,16.51681253,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00013">
+      <name>Hospital rural San Juanito Chihuahua</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural San Juanito Chihuahua</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>13</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>14</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural San Juanito Chihuahua</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-107.595781</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>27.96951</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Chihuahua</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Bocoyna</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>San Juanito</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Barrio del Seguro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>33211</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Vicente Guerrero y Teporaca s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -107.5957814,27.96950971,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00014">
+      <name>Hospital rural Valle de Ignacio Allende Chihuahua</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Valle de Ignacio Allende Chihuahua</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>14</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>15</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Valle de Ignacio Allende Chihuahua</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-105.394087</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>26.933365</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Chihuahua</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Ignacio Allende</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Valle de Allende</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Centro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>33920</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Independencia s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -105.3940874,26.93336491,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00015">
+      <name>Hospital rural Guachochi Chihuahua</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Guachochi Chihuahua</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>16</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Guachochi Chihuahua</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-107.149841</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>26.842949</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Chihuahua</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Guachochi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Guachochi</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Alta Vista</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>33180</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Atlante y Zacatepec s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -107.1498413,26.84294949,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00016">
+      <name>Hospital rural San Buenaventura Coahuila</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural San Buenaventura Coahuila</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>16</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>17</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural San Buenaventura Coahuila</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-101.551426</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>27.04627</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Coahuila</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>San Buenaventura</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>San Buenaventura</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Zona Centro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>25500</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Carretera a Cuatro CiŽnegas Km. 23/100 s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -101.551426,27.04626997,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00017">
+      <name>Hospital rural Ramos Arizpe Coahuila</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Ramos Arizpe Coahuila</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>17</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>18</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Ramos Arizpe Coahuila</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-100.948303</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>25.537289</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Coahuila</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Ramos Arizpe</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Ramos Arizpe</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Zona Centro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>25900</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Av. Plan de Guadalupe 151</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -100.9483032,25.53728945,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00018">
+      <name>Hospital rural Matamoros Coahuila</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Matamoros Coahuila</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>18</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>19</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Matamoros Coahuila</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-103.230086</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>25.527542</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Coahuila</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Matamoros</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Matamoros</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Centro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>27440</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Independencia y Pabell—n s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -103.2300861,25.52754223,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00019">
+      <name>Hospital rural Ciudad Guadalupe Victoria Durango</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Ciudad Guadalupe Victoria Durango</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>19</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>20</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Ciudad Guadalupe Victoria Durango</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-104.122158</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>24.438968</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Durango</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Guadalupe Victoria</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Guadalupe Victoria</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Centro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>34700</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Km. 1 Carretera a Ram—n Corno s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -104.1221584,24.4389675,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00020">
+      <name>Hospital rural Rodeo Durango</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Rodeo Durango</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>20</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>21</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Rodeo Durango</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-104.553793</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>25.169798</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Durango</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Rodeo</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Rodeo</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Industrial</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>35760</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Carretera Panamericana Km. 106</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -104.5537929,25.16979833,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00021">
+      <name>Hospital rural Vicente Guerrero Durango</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Vicente Guerrero Durango</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>21</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>22</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Vicente Guerrero Durango</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-103.975286</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>23.719448</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Durango</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Vicente Guerrero</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Vicente Guerrero</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>J. Guadalupe Rodr’guez</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>34890</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Carretera a Suchil Km. 1.5 s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -103.975286,23.71944781,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00022">
+      <name>Hospital rural La Uni—n Guerrero</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural La Uni—n Guerrero</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>22</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>23</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural La Uni—n Guerrero</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-101.825571</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>17.940157</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Guerrero</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>La Uni—n de Isidoro Montes de Oca</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>La Uni—n Guerrero</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Predio Rustico el Reparo</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>40800</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Carretera Nacional Zihuatanejo a L‡zaro C‡rdenas entronque la Uni—n s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -101.8255706,17.94015713,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00023">
+      <name>Hospital rural Metepec Hidalgo</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Metepec Hidalgo</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>23</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>24</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Metepec Hidalgo</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-98.33083</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>20.24182</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Hidalgo</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Metepec</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Metepec</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Metepec</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>43400</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Carretera Tulancingo a Huayacocotla s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -98.33083000000001,20.24182,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00024">
+      <name>Hospital rural Ixmiquilpan Hidalgo</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Ixmiquilpan Hidalgo</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>24</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>25</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Ixmiquilpan Hidalgo</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-99.220137</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>20.491048</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Hidalgo</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Ixmiquilpan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Ixmiquilpan</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Valle de San Javier</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>42300</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Hidalgo s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -99.22013712,20.49104755,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00025">
+      <name>Hospital rural Zacualtipan Hidalgo</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Zacualtipan Hidalgo</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>26</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Zacualtipan Hidalgo</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-98.657577</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>20.6515</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Hidalgo</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Zacualtipan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Zacualtipan</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Chililiapa</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>43200</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Ocampo s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -98.65757686000001,20.65150017,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00026">
+      <name>Hospital rural Huejutla de Reyes Hidalgo</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Huejutla de Reyes Hidalgo</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>26</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>27</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Huejutla de Reyes Hidalgo</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-98.408462</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>21.136332</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Hidalgo</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Huejutla</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Huejutla</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>La Lomita Chacatitla</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>43000</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Carretera MŽxico Tampico Km. 214</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -98.40846223,21.13633193,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00027">
+      <name>Hospital rural San JosŽ del Rinc—n MŽxico</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural San JosŽ del Rinc—n MŽxico</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>27</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>28</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural San JosŽ del Rinc—n MŽxico</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-100.12396</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>19.65419</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>MŽxico</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>San JosŽ del Rinc—n</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>San JosŽ del Rinc—n</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Rancher’a la Trinidad Santa Cruz del Rinc—n</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>50684</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Carretera el Oro a Villa Victoria Km. 35</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -100.1239597,19.65419004,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00028">
+      <name>Hospital rural Amanalco MŽxico</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Amanalco MŽxico</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>28</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>29</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Amanalco MŽxico</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-100.011324</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>19.256831</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>MŽxico</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Amanalco de Becerra</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Amanalco de Becerra</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>San Lucas 1a Secci—n</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>51260</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Carretera Toluca Amanalco a Valle de Bravo Km. 47.5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -100.0113244,19.25683082,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00029">
+      <name>Hospital rural Tuxpan Michoac‡n</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Tuxpan Michoac‡n</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>29</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>30</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Tuxpan Michoac‡n</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-100.470698</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>19.555414</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Michoac‡n</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Tuxpan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Tuxpan</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>La Catarina</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>61420</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Av. Morelos Sur s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -100.4706983,19.55541385,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00030">
+      <name>Hospital rural Huetamo de Nœ–ez Michoac‡n</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Huetamo de Nœ–ez Michoac‡n</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>30</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>31</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Huetamo de Nœ–ez Michoac‡n</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-100.885821</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>18.627352</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Michoac‡n</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Huetamo</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Huetamo</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Unidad Deportiva</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>61940</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>PerifŽrico Coplamar 79</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -100.8858211,18.6273516,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00031">
+      <name>Hospital rural Coalcom‡n de V‡zquez Pallares Michoac‡n</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Coalcom‡n de V‡zquez Pallares Michoac‡n</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>31</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>32</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Coalcom‡n de V‡zquez Pallares Michoac‡n</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-103.166804</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>18.77299</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Michoac‡n</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Coalcom‡n Michoac‡n</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Coalcom‡n</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Centro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>60840</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Francisco J. Mœjica esq Dr. Miguel Silva s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -103.1668038,18.77298967,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00032">
+      <name>Hospital rural Ario de Rosales Michoac‡n</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Ario de Rosales Michoac‡n</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>32</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>33</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Ario de Rosales Michoac‡n</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-101.711947</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>19.210587</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Michoac‡n</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Ario de Rosales Michoac‡n</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Ario de Rosales</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Ram’rez</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>60830</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Blvd. L‡zaro C‡rdenas s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -101.7119468,19.21058746,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00033">
+      <name>Hospital rural Paracho de Verduzco Michoacan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Paracho de Verduzco Michoacan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>33</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>34</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Paracho de Verduzco Michoacan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-102.053741</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>19.636937</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Michoacan</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Paracho de Verduzco</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Paracho</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Villa Artesanal</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>60250</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Prol. 20 de Noviembre s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -102.0537407,19.63693693,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00034">
+      <name>Hospital rural Villamar Michoacan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Villamar Michoacan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>34</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>35</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Villamar Michoacan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-102.61436</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>20.000383</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Michoacan</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Villamar</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Villamar</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Emiliano Zapata</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>59551</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Carretera Sahuayo a Zamora 333</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -102.61436,20.00038332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00035">
+      <name>Hospital rural Buenavista Tomatl‡n Michoac‡n</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Buenavista Tomatl‡n Michoac‡n</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>35</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>36</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Buenavista Tomatl‡n Michoac‡n</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-102.586147</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>19.229831</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Michoac‡n</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Buenavista Tomatl‡n</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Buenavista Tomatl‡n</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>M‡rtires de Uruapan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>60500</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Av. Morelos Norte 2501</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -102.5861467,19.22983094,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00036">
+      <name>Hospital rural San Cayetano Nayarit</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural San Cayetano Nayarit</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>36</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>37</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural San Cayetano Nayarit</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-104.812328</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>21.449976</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Nayarit</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Tepic</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>San Cayetano</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Centro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>63509</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Francisco I. Madero 153</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -104.8123283,21.44997602,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00037">
+      <name>Hospital rural Campamento Hospital (Veinte de Noviembre) Nayarit</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Campamento Hospital (Veinte de Noviembre) Nayarit</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>37</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>38</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Campamento Hospital (Veinte de Noviembre) Nayarit</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-106.531647</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>21.625964</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Nayarit</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>San Blas</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Islas Mar’as</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Campamento Hospital</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>63779</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Corredor Hospital Balleto s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -106.5316467,21.62596359,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00038">
+      <name>Hospital rural La Soledad Oaxaca</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural La Soledad Oaxaca</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>38</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>39</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural La Soledad Oaxaca</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-97.789608</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>17.8141</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Oaxaca</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Huajuapan de Le—n</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Huajuapan de Le—n</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>La Soledad</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>69006</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Diagonal 5 de Febrero 8</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -97.78960776,17.81409953,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00039">
+      <name>Hospital rural Heroica Ciudad de Tlaxiaco Oaxaca</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Heroica Ciudad de Tlaxiaco Oaxaca</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>39</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>40</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Heroica Ciudad de Tlaxiaco Oaxaca</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-97.67948</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>17.271646</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Oaxaca</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Tlaxiaco</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Tlaxiaco</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Barrio San Diego</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>69800</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Carretera a Yucudaa Km. 56.5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -97.67948028000001,17.27164595,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00040">
+      <name>Hospital rural Santiago Juxtlahuaca Oaxaca</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Santiago Juxtlahuaca Oaxaca</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>40</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>41</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Santiago Juxtlahuaca Oaxaca</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-98.01362</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>17.34214</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Oaxaca</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Santiago Juxtlahuaca</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Santiago Juxtlahuaca</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>L‡zaro C‡rdenas</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>69700</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Km. 1 Carretera Huajuapan-Juxtlahuaca s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -98.01362,17.34214,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00041">
+      <name>Hospital rural Santiago Jamiltepec Oaxaca</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Santiago Jamiltepec Oaxaca</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>41</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>42</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Santiago Jamiltepec Oaxaca</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-97.826054</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>16.290031</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Oaxaca</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Santiago Jamiltepec</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Santiago Jamiltepec</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Secci—n 5a</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>71700</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Antiguo Camino a Mechoacan s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -97.82605407,16.29003137,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00042">
+      <name>Hospital rural Miahuatl‡n de Porfirio D’az Oaxaca</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Miahuatl‡n de Porfirio D’az Oaxaca</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>42</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>43</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Miahuatl‡n de Porfirio D’az Oaxaca</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-96.598251</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>16.336632</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Oaxaca</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Miahuatl‡n de Porfirio D’az</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Miahuatl‡n de Porfirio D’az</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Barrio Abajo</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>70800</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>3 de Octubre s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -96.59825099,16.33663167,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00043">
+      <name>Hospital rural Tlacolula de Matamoros Oaxaca</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Tlacolula de Matamoros Oaxaca</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>43</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>44</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Tlacolula de Matamoros Oaxaca</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-96.476463</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>16.965524</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Oaxaca</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Tlacolula</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Oaxaca</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>7a Secci—n</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>70403</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Carretera a D’az Ordaz s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -96.47646260000001,16.96552426,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00044">
+      <name>Hospital rural San Ildefonso Villa Alta Oaxaca</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural San Ildefonso Villa Alta Oaxaca</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>44</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>45</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural San Ildefonso Villa Alta Oaxaca</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-96.145277</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>17.335619</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Oaxaca</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>San Ildelfonso Villa Alta</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>San Ildelfonso Villa Alta</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>NULL</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>68800</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Carretera a Temaxcalapa Km. 1.5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -96.14527683999999,17.33561944,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00045">
+      <name>Hospital rural Mat’as Romero Avenda–o Oaxaca</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Mat’as Romero Avenda–o Oaxaca</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>45</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>46</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Mat’as Romero Avenda–o Oaxaca</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-95.034323</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>16.877059</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Oaxaca</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Mat’as Romero Avenda–o</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Mat’as Romero Avenda–o</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Barrio Ju‡rez Norte</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>70300</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Tierra y Libertad 202</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -95.0343233,16.87705916,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00046">
+      <name>Hospital rural Huautla de JimŽnez Oaxaca</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Huautla de JimŽnez Oaxaca</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>46</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>47</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Huautla de JimŽnez Oaxaca</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-96.821835</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>18.123517</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Oaxaca</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Huautla de JimŽnez</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Huautla de JimŽnez</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Cerro del Fort’n</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>68500</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Cerro del Fort’n 43</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -96.82183456,18.12351722,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00047">
+      <name>Hospital rural Villa çvila Camacho (La Ceiba) Puebla</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Villa çvila Camacho (La Ceiba) Puebla</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>47</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>48</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Villa çvila Camacho (La Ceiba) Puebla</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-97.87894</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>20.391544</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Puebla</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Xicotepec de Ju‡rez</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Villa çvila Camacho</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>San Marcos</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>73090</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Carretera MŽxico a Tuxpan Km. 143 s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -97.87893963000001,20.39154388,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00048">
+      <name>Hospital rural Ciudad de Chignahuapan Puebla</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Ciudad de Chignahuapan Puebla</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>48</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>49</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Ciudad de Chignahuapan Puebla</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-98.025411</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>19.836772</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Puebla</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Chignahuapan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Chignahuapan</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Teoconchila</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>73300</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Nigromante s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -98.02541149,19.83677205,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00049">
+      <name>Hospital rural San Salvador El Seco Puebla</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural San Salvador El Seco Puebla</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>49</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>50</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural San Salvador El Seco Puebla</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-97.64993</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>19.134584</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Puebla</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>San Salvador el Seco</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>El Seco</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Xilotepec</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>75160</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Av. 20 de Noviembre s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -97.64993038999999,19.13458437,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00050">
+      <name>Hospital rural Zacapoaxtla Puebla</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Zacapoaxtla Puebla</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>50</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>51</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Zacapoaxtla Puebla</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-97.586372</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>19.875861</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Puebla</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Zacapoaxtla</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Zacapoaxtla</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Centro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>73680</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Galeana s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -97.58637232,19.87586113,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00051">
+      <name>Hospital rural Ciudad de Chiautla de Tapia Puebla</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Ciudad de Chiautla de Tapia Puebla</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>51</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>52</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Ciudad de Chiautla de Tapia Puebla</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-98.609838</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>18.303626</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Puebla</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Chiautla</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Chiautla de Tapia</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Linda Vista</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>74730</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>11 Norte y Carretera Ixcamilpa s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -98.60983801,18.30362629,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00052">
+      <name>Hospital rural Tepexi de Rodr’guez Puebla</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Tepexi de Rodr’guez Puebla</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>52</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>53</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Tepexi de Rodr’guez Puebla</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-97.930193</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>18.586171</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Puebla</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Tepexi de Rodr’guez</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Tepexi de Rodr’guez</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Barrio de San Sebasti‡n</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>74690</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Carretera la Colorada a Ixcaquixtla Km. 44+100 s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -97.93019307,18.58617101,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00053">
+      <name>Hospital rural Ixtepec Puebla</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Ixtepec Puebla</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>53</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>54</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Ixtepec Puebla</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-97.651965</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>20.029706</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Puebla</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Ixtepec</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Ixtepec</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Predio Lkuyat Chiwix</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>73480</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Camino a Zitlala Km. 00-250 s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -97.65196484000001,20.02970598,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00054">
+      <name>Hospital rural Charcas San Luis Potos’</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Charcas San Luis Potos’</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>54</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>55</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Charcas San Luis Potos’</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-101.108371</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>23.127559</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>San Luis Potos’</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Charcas</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Charcas</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Clavellinas</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>78570</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Carretera FFCC s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -101.1083707,23.12755912,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00055">
+      <name>Hospital rural Matehuala San Luis Potos’</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Matehuala San Luis Potos’</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>55</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>56</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Matehuala San Luis Potos’</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-100.636478</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>23.662412</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>San Luis Potos’</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Matehuala</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Matehuala</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>22 de Mayo</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>78715</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Carretera Central Km. 617</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -100.6364776,23.6624123,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00056">
+      <name>Hospital rural Cerritos San Luis Potos’</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Cerritos San Luis Potos’</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>56</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>57</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Cerritos San Luis Potos’</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-100.283174</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>22.423131</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>San Luis Potos’</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Cerritos</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Cerritos</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Guadalupe</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>79402</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Venustiano Carranza 33</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -100.2831743,22.42313149,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00057">
+      <name>Hospital rural Zacatipan San Luis Potos’</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Zacatipan San Luis Potos’</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>57</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>58</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Zacatipan San Luis Potos’</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-98.768222</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>21.249238</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>San Luis Potos’</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Tamazunchale</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Tamazunchale</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Zacatipan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>79960</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Carretera San Mart’n Km. 5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -98.76822245,21.24923762,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00058">
+      <name>Hospital rural El Fuerte Sinaloa</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural El Fuerte Sinaloa</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>58</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>59</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural El Fuerte Sinaloa</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-108.620389</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>26.407566</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Sinaloa</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>El Fuerte</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>El Fuerte</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Centro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>81820</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Profesora Rebeca Serna s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -108.6203892,26.40756556,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00059">
+      <name>Hospital rural Villa Uni—n Sinaloa</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Villa Uni—n Sinaloa</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>59</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>60</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Villa Uni—n Sinaloa</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-106.213694</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>23.189786</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Sinaloa</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Mazatl‡n Sinaloa</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Villa Uni—n</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Fidel Vel‡zquez</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>82210</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Carretera Internacional y Leandro Valle s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -106.213694,23.18978558,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00060">
+      <name>Hospital rural Hidalgo Tamaulipas</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Hidalgo Tamaulipas</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>60</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>61</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Hidalgo Tamaulipas</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-99.441905</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>24.252304</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Tamaulipas</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Hidalgo</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Tamaulipas</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Zona Centro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>87800</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Francisco Javier Mina s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -99.44190484000001,24.2523036,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00061">
+      <name>Hospital rural Soto La Marina Tamaulipas</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Soto La Marina Tamaulipas</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>61</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>62</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Soto La Marina Tamaulipas</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-98.204179</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>23.775013</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Tamaulipas</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Soto la Marina</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Soto La Marina</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>L‡zaro C‡rdenas</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>87670</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Antonio Casso s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -98.20417938,23.77501347,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00062">
+      <name>Hospital rural Ciudad Tula Tamaulipas</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Ciudad Tula Tamaulipas</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>62</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>63</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Ciudad Tula Tamaulipas</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-99.718797</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>22.991492</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Tamaulipas</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Tula</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Tula</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Barrio El Jicote</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>87900</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Enrique C‡rdenas 14</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -99.71879733,22.99149171,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00063">
+      <name>Hospital rural Chicontepec de Tejeda Veracruz</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Chicontepec de Tejeda Veracruz</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>63</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>64</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Chicontepec de Tejeda Veracruz</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-98.188329</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>20.968576</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Veracruz</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Chicontepec de Tejeda</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Chicontepec</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Barrio Dos Caminos</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>92709</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Constituci—n s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -98.18832886,20.96857578,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00064">
+      <name>Hospital rural Papantla de Olarte Veracruz</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Papantla de Olarte Veracruz</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>64</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>65</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Papantla de Olarte Veracruz</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-97.336004</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>20.454518</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Veracruz</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Papantla</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Papantla</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Valent’n G—mez Farias</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>93430</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Camino Antiguo Al Taj’n s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -97.33600420000001,20.45451819,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00065">
+      <name>Hospital rural Zongolica Veracruz</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Zongolica Veracruz</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>65</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>66</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Zongolica Veracruz</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-96.996063</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>18.66455</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Veracruz</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Zongolica</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Zongolica</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Centro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>95000</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Morelos s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -96.99606282000001,18.66455045,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00066">
+      <name>Hospital rural Coscomatepec de Bravo Veracruz</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Coscomatepec de Bravo Veracruz</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>66</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>67</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Coscomatepec de Bravo Veracruz</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-97.044072</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>19.069062</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Veracruz</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Cocomatepec</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Coscomatepec</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Centro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>94140</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Carretera Federal Fort’n a Huatusco Km. 22.5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -97.0440717,19.0690619,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00067">
+      <name>Hospital rural Jaltipan de Morelos Veracruz</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Jaltipan de Morelos Veracruz</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>67</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>68</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Jaltipan de Morelos Veracruz</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-94.704776</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>17.959506</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Veracruz</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Jaltipan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Jaltipan</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Deportiva</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>96280</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Prol. Morelos s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -94.70477638,17.95950634,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00068">
+      <name>Hospital rural Plan de Arroyos Veracruz</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Plan de Arroyos Veracruz</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>68</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>69</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Plan de Arroyos Veracruz</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-97.111227</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>19.893384</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Veracruz</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Atzalan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Veracruz</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>La Granja</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>93695</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Camino a la Noria 134</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -97.11122748,19.89338435,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00069">
+      <name>Hospital rural Acanceh Yucat‡n</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Acanceh Yucat‡n</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>69</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>70</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Acanceh Yucat‡n</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-89.459648</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>20.814976</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Yucat‡n</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Acanceh</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Acanceh</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Centro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>97380</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Calle 23 #177</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -89.45964825,20.81497609,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00070">
+      <name>Hospital rural Oxkutzcab Yucat‡n</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Oxkutzcab Yucat‡n</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>70</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>71</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Oxkutzcab Yucat‡n</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-89.427794</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>20.306449</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Yucat‡n</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Oxkutzcab</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Oxkutzcab</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>San Esteban</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>97880</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Calle 64 s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -89.42779434000001,20.30644917,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00071">
+      <name>Hospital rural Izamal Yucat‡n</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Izamal Yucat‡n</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>71</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>72</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Izamal Yucat‡n</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-89.01539</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>20.928066</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Yucat‡n</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Izamal</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Izamal</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>San Marcos</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>97540</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Calle 24 #313</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -89.01538995,20.92806615,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00072">
+      <name>Hospital rural Maxcanu Yucat‡n</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Maxcanu Yucat‡n</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>72</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>73</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Maxcanu Yucat‡n</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-89.997447</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>20.583977</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Yucat‡n</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Maxcanu</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Maxcanu</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Centro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>97800</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Calle 21 s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -89.99744724999999,20.58397671,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00073">
+      <name>Hospital rural R’o Grande Zacatecas</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural R’o Grande Zacatecas</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>73</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>74</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural R’o Grande Zacatecas</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-103.022319</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>23.808971</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Zacatecas</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>R’o Grande</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>R’o Grande</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Adolfo L—pez Mateos</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>98400</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Carretera a Torre—n Km. 57.3 s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -103.0223186,23.80897149,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00074">
+      <name>Hospital rural Concepci—n del Oro Zacatecas</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Concepci—n del Oro Zacatecas</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>74</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>75</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Concepci—n del Oro Zacatecas</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-101.401272</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>24.62123</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Zacatecas</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Concepci—n del Oro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Concepci—n del Oro</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>IMSS</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>98200</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Carretera Concepci—n del Oro a Saltillo Km. 2 s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -101.4012719,24.62122984,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00075">
+      <name>Hospital rural Villanueva Zacatecas</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Villanueva Zacatecas</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>75</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>76</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Villanueva Zacatecas</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-102.885935</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>22.363603</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Zacatecas</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Villanueva</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Villanueva</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Nueva</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>99500</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>GutiŽrrez del çguila s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -102.885935,22.36360292,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00076">
+      <name>Hospital rural Tlaltenango de S‡nchez Rom‡n Zacatecas</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Tlaltenango de S‡nchez Rom‡n Zacatecas</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>76</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>77</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Tlaltenango de S‡nchez Rom‡n Zacatecas</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-103.309117</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>21.767638</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Zacatecas</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Tlaltenango</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Tlaltenango de S‡nchez Rom‡n</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Barrio de Veracruz</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>99700</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Prol. Emilio Carranza s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -103.3091165,21.76763834,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00077">
+      <name>Hospital rural Pinos Zacatecas</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hospital rural Pinos Zacatecas</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>77</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ID</td>
+<td>78</td>
+</tr>
+<tr>
+<td>DESCRIPCIO</td>
+<td>Hospital rural Pinos Zacatecas</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X</td>
+<td>-101.575717</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>22.298629</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ESTADO</td>
+<td>Zacatecas</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>Pinos</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LOCALIDAD</td>
+<td>Pinos</td>
+</tr>
+<tr>
+<td>COLONIA</td>
+<td>Pinos</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>CP</td>
+<td>98920</td>
+</tr>
+<tr>
+<td>CALLE</td>
+<td>Prol. Gonz‡lez Ortega s/n</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -101.5757174,22.29862911,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Style id="IconStyle00">
+    <IconStyle>
+      <Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon>
+      <scale>1.250000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>
