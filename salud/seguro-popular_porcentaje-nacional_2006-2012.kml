@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <name>Porcentaje al total nacional por semestres 2006-2012</name>
+    <ScreenOverlay id="Seguro_Popular_Porcentaje_Id">
+      <name>Seguro_Popular_Porcentaje_Id</name>
+      <open>1</open>
+      <Icon>
+        <href>http://admon.mapas.gob.mx/work/models/vgn/vgn_Capa/2615/Leyenda_Porcentaje.png</href>
+      </Icon>
+      <overlayXY x="0" y="0.5" xunits="fraction" yunits="fraction" />
+      <screenXY x="0" y="0.5" xunits="fraction" yunits="fraction" />
+      <rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+      <size x="" y="" xunits="pixels" yunits="pixels" />
+    </ScreenOverlay>
+    <NetworkLink>
+      <name>2615-1</name>
+      <TimeSpan>
+        <begin>2006-01</begin>
+        
+      </TimeSpan>
+      <drawOrder>1</drawOrder>
+      <Link>
+        <href>http://admon.mapas.gob.mx/work/models/vgn/vgn_Capa/2615/2615-1.kmz</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>2615-2</name>
+      <TimeSpan>
+        <begin>2006-07</begin>
+        
+      </TimeSpan>
+      <drawOrder>1</drawOrder>
+      <Link>
+        <href>http://admon.mapas.gob.mx/work/models/vgn/vgn_Capa/2615/2615-2.kmz</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>2615-3</name>
+      <TimeSpan>
+        <begin>2007-01</begin>
+        
+      </TimeSpan>
+      <drawOrder>1</drawOrder>
+      <Link>
+        <href>http://admon.mapas.gob.mx/work/models/vgn/vgn_Capa/2615/2615-3.kmz</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>2615-4</name>
+      <TimeSpan>
+        <begin>2007-07</begin>
+        
+      </TimeSpan>
+      <drawOrder>1</drawOrder>
+      <Link>
+        <href>http://admon.mapas.gob.mx/work/models/vgn/vgn_Capa/2615/2615-4.kmz</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>2615-5</name>
+      <TimeSpan>
+        <begin>2008-01</begin>
+        
+      </TimeSpan>
+      <drawOrder>1</drawOrder>
+      <Link>
+        <href>http://admon.mapas.gob.mx/work/models/vgn/vgn_Capa/2615/2615-5.kmz</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>2615-6</name>
+      <TimeSpan>
+        <begin>2008-07</begin>
+       
+      </TimeSpan>
+      <drawOrder>1</drawOrder>
+      <Link>
+        <href>http://admon.mapas.gob.mx/work/models/vgn/vgn_Capa/2615/2615-6.kmz</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>2615-7</name>
+      <TimeSpan>
+        <begin>2009-01</begin>
+        
+      </TimeSpan>
+      <drawOrder>1</drawOrder>
+      <Link>
+        <href>http://admon.mapas.gob.mx/work/models/vgn/vgn_Capa/2615/2615-7.kmz</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>2615-8</name>
+      <TimeSpan>
+        <begin>2009-07</begin>
+        
+      </TimeSpan>
+      <drawOrder>1</drawOrder>
+      <Link>
+        <href>http://admon.mapas.gob.mx/work/models/vgn/vgn_Capa/2615/2615-8.kmz</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>2615-9</name>
+      <TimeSpan>
+        <begin>2010-01</begin>
+        
+      </TimeSpan>
+      <drawOrder>1</drawOrder>
+      <Link>
+        <href>http://admon.mapas.gob.mx/work/models/vgn/vgn_Capa/2615/2615-9.kmz</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>2615-10</name>
+      <TimeSpan>
+        <begin>2010-07</begin>
+        
+      </TimeSpan>
+      <drawOrder>1</drawOrder>
+      <Link>
+        <href>http://admon.mapas.gob.mx/work/models/vgn/vgn_Capa/2615/2615-10.kmz</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>2615-11</name>
+      <TimeSpan>
+        <begin>2011-01</begin>
+       
+      </TimeSpan>
+      <drawOrder>1</drawOrder>
+      <Link>
+        <href>http://admon.mapas.gob.mx/work/models/vgn/vgn_Capa/2615/2615-11.kmz</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>2615-12</name>
+      <TimeSpan>
+        <begin>2011-07</begin>
+      
+      </TimeSpan>
+      <drawOrder>1</drawOrder>
+      <Link>
+        <href>http://admon.mapas.gob.mx/work/models/vgn/vgn_Capa/2615/2615-12.kmz</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>2615-13</name>
+      <TimeSpan>
+        <begin>2012-01</begin>
+        <end>2012</end>
+      </TimeSpan>
+      <drawOrder>1</drawOrder>
+      <Link>
+        <href>http://admon.mapas.gob.mx/work/models/vgn/vgn_Capa/2615/2615-13.kmz</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
