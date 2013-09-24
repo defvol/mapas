@@ -43,7 +43,7 @@ SALUD
   <tr>
     <td>Instituto Mexicano del Seguro Social</td>
     <td>Unidades de atención médica</td>
-    <td>imss_unidades-atencion-medica.kml</td>
+    <td>imss_unidades-atencion-medica.geojson</td>
   </tr>
   <tr>
     <td>Instituto Mexicano del Seguro Social</td>
