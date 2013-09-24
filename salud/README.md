@@ -55,5 +55,15 @@ SALUD
     <td>Hospitales rurales del Programa Oportunidades</td>
     <td>imss_hospitales-rurales-oportunidades.kml</td>
   </tr>
+  <tr>
+    <td>Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado</td>
+    <td>Casos reportados de influenza A (H1N1)</td>
+    <td>issste_casos-influenza.kml</td>
+  </tr>
+  <tr>
+    <td>Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado</td>
+    <td>Unidades médicas</td>
+    <td>issste_unidades-medicas.kml</td>
+  </tr>
 </table>
 
